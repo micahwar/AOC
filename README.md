@@ -7,10 +7,10 @@
     - [ ] Remove duplicate temporary files for days.
 
 #2018
-![alt text](https://github.com/micahwar/AOC/blob/README-Images/2018.jpg?raw=true)
+![alt text](https://raw.githubusercontent.com/micahwar/AOC/main/README-Images/2018.png)
 
 #2019
-![alt text](https://github.com/micahwar/AOC/blob/README-Images/2019.jpg?raw=true)
+![alt text](https://raw.githubusercontent.com/micahwar/AOC/main/README-Images/2019.png)
 
 #2020
-![alt text](https://github.com/micahwar/AOC/blob/README-Images/2020.jpg?raw=true)
+![alt text](https://raw.githubusercontent.com/micahwar/AOC/main/README-Images/2020.png)
